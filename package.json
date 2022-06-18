@@ -1,0 +1,23 @@
+{
+  "name": "jesttestingpractice",
+  "version": "1.0.0",
+  "description": "Testing Javscript code with Jest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbbyNyakara/JestTestingPractice/issues"
+  },
+  "homepage": "https://github.com/AbbyNyakara/JestTestingPractice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "@babel/register": "^7.17.7",
+    "jest": "^28.1.1"
+  }
+}
